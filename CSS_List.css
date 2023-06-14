@@ -1,0 +1,10 @@
+ol { 
+	list-style-type: upper-roman;
+	}	
+
+h2, ol, ul { text-shadow: blue 1px 2px 5px;
+}				  
+
+
+ul {list-style-type: square;
+}
